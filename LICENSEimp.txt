@@ -1,0 +1,25 @@
+School Sewak
+Copyright (c) 2026 Priyangshu Pal
+All Rights Reserved.
+
+This software and its associated source code, design, and documentation
+(the "Software") are the exclusive intellectual property of Priyangshu Pal.
+
+No part of this Software may be copied, modified, merged, published,
+distributed, sublicensed, sold, or used to create derivative works,
+in whole or in part, in any form or by any means, without the prior
+express written permission of the copyright holder.
+
+This Software is made available for viewing and demonstration purposes
+only (for example, as part of a portfolio, resume, or job application).
+No license, express or implied, to any intellectual property rights is
+granted by such viewing or demonstration.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN
+AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+For permissions or licensing inquiries, contact: Priyangshu Pal (priyangshupal77@gmail.com).
